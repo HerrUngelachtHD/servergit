@@ -1,0 +1,19 @@
+main: de.unhd.ugit.main
+version: Build 1.0.0-INDEV
+name: ultimategit
+author: HerrUngelachtHD
+
+commands:
+  git:
+  play:
+  gamemode:
+  gm:
+  night:
+  day:
+  sun:
+  rain:
+  thunder:
+  clearmychat:
+  cmc:
+  johndoe:
+  allwissend:
